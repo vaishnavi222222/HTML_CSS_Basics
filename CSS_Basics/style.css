@@ -1,0 +1,70 @@
+.uber {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    height: 40px;
+    width: 150px;
+    border: none;
+}
+
+.Amazon {
+    color: black;
+    background-color: rgb(255, 216, 20);
+    font-weight: bold;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    border:none;
+}
+
+.Github {
+    border: none;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(46, 164, 79);
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+
+.Bootstrap1 {
+    font-weight: bold;
+    color: white;
+    background-color: rgb(121,82,179);
+    height: 40px;
+    border:none;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.Bootstrap2 {
+    font-weight: bold;
+    color: gray;
+    background-color: white;
+    border-color: gray;
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+
+.Linkedin1 {
+    color: white;
+    border:none;
+    background-color: rgb(10,102,194);
+    border-radius: 30px;
+    height: 35px;
+    width: 220px;
+    font-weight: bold;
+}
+
+.Linkedin2 {
+    color: rgb(10,102,194) ;
+    background-color: white;
+    border-radius: 30px;
+    height: 35px;
+    width: 75px;
+    font-weight: bold;
+    border-color: gray;
+}
